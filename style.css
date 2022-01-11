@@ -1,0 +1,13 @@
+.flex-container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container1 div {
+    color: white;
+    background-color: red;
+    padding: 20px;
+    cursor: grab;
+    font-family: 'Lato';
+    letter-spacing: 1px;
+}
